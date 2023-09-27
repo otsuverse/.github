@@ -4,8 +4,8 @@
 
 # Otsu!
 
-Otsu! is currently developing a tools from [osu!](https://osu.ppy.sh) game and others stuff . <br>
-Otsu! doesn't have any affilates with [osu!](https://osu.ppy.sh) . <br>
+Otsuverse! is currently developing something about [osu!](https://osu.ppy.sh) game and also Hoyoverse stuff . <br>
+Otsuverse! doesn't have any affilates with [osu!](https://osu.ppy.sh) and [Hoyoverse](https://www.hoyoverse.com) . <br>
 Our repository will be *private* for some reasons , and I will *public* it whenever I want .
 
 # Project
