@@ -1,10 +1,11 @@
 <p align="center">
-  <img width="250" alt="otsu! logo" src="https://github.com/otsudev/.github/assets/144582903/ab4d3e6a-c641-4ac3-99e1-0405e30356a7">
+  <img width="250" alt="otsu! logo" src="https://github.com/otsuverse/.github/assets/144582903/a46226fc-6fea-4031-acc0-33bcbfd72ee9">
+
 </p>
 
-# Otsu!
+# Otsuverse!
 
-Otsuverse! is currently developing something about [osu!](https://osu.ppy.sh) game and also Hoyoverse stuff . <br>
+Otsuverse! is currently developing something about [osu!](https://osu.ppy.sh) game and also [Hoyoverse](https://www.hoyoverse.com) stuff . <br>
 Otsuverse! doesn't have any affilates with [osu!](https://osu.ppy.sh) and [Hoyoverse](https://www.hoyoverse.com) . <br>
 Our repository will be *private* for some reasons , and I will *public* it whenever I want .
 
